@@ -52,8 +52,9 @@ make -f makefile.unix
 
 ### Run DSYS daemon
 ```
-./digitalsystemd
+./digitalsystemd -daemon 
 ```
+### RUN DAEMON 2 TIMES, 1 TIME WILL BE GENERATED .CONF FILE
 
 License
 -------
