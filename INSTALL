@@ -1,0 +1,9 @@
+Building Digitalsystem
+
+See doc/readme-qt.rst for instructions on building Digitalsystem QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Digitalsystem.
+
+See doc/build-*.txt for instructions on building Digitalsystemd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Digitalsystem.
